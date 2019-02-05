@@ -11,6 +11,7 @@ import java.util.*;
 
 /**
  * Created by LaunchCode
+ *  Edited by RobE357
  */
 public class JobData {
 
